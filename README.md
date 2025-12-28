@@ -85,13 +85,7 @@ I used to build production apps as a Full-Stack Developer — now I break simila
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FZLSHK&show_icons=true&theme=dark&hide_border=true&rank_icon=github&cache_seconds=86400" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FZLSHK&theme=dark&hide_border=true" />
-
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=FZLSHK&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FZLSHK&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" />
 
