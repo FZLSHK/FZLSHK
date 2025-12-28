@@ -81,17 +81,3 @@ I used to build production apps as a Full-Stack Developer — now I break simila
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=FZLSHK&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FZLSHK&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" />
-
-</div>
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=FZLSHK&icon=0&color=0)
-
